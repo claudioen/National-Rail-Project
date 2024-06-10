@@ -5,16 +5,12 @@ Project delving into NationalRail's data – uncovering key insights into train 
 1. Introduction
 2. Objectives
 3. Data Description
-4. Methodology
-5. Analysis and Results
-6. Conclusion
-7. Future Work
-8. Requirements
-9. Usage
-10. Project Structure
-11. Contributing
-11. License
-12. Acknowledgements
+4. Analysis and Results
+5. Conclusion
+6. Future Work
+7. Requirements
+8. Project Structure
+9. Acknowledgements
 
 
 ### Introduction
@@ -27,8 +23,29 @@ Project delving into NationalRail's data – uncovering key insights into train 
 4. Assessing on-time performance ⏱️
 
 ### Data Description
-1. The data that was provided was fairly clean but not complete and needed some minor tweaks.
-The only thing that is missing from the data was the coordinates of the different railway stations. Therefore, I went to search for it and got this website: https://github.com/ellcom/UK-Train-Station-Locations/blob/master/uk-train-stations.csv
-I adjusted the reason for delay "Weather Conditions" to just "Weather"
-I created a route column (departure location - arrival location), and multiple time tables to calculate time related metrics.
-I scraped the web using OpenStreetMap API to get the route coordinates (best route) of the different routes for the route map visual.
+The dataset contains mock train ticket sales for National Rail in the UK, covering the period from January to April 2024. It includes detailed information on:
+* Type of Ticket: The category of each ticket sold.
+* Journey Date & Time: The specific date and time for each journey.
+* Departure & Arrival Stations: The starting and ending points of each journey.
+* Ticket Price: The cost of each ticket.
+* Additional Details: Any other relevant information associated with the train ticket sales.
+The dataset was initially fairly clean but incomplete, lacking the coordinates for various railway stations.
+These coordinates were obtained from the following source: https://github.com/ellcom/UK-Train-Station-Locations/blob/master/uk-train-stations.csv
+
+### Analysis and Results
+
+
+### Conclusion
+
+
+### Future Work
+
+
+### Requirements
+
+
+### Project Structure
+
+
+### Acknowledgements
+
