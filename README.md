@@ -2,15 +2,14 @@
 Project delving into NationalRail's data – uncovering key insights into train operations in England, Scotland, and Wales.
 
 ## Table of Contents
-1. Introduction
-2. Objectives
-3. Data Description
-4. Analysis and Results
-5. Conclusion
-6. Future Work
-7. Requirements
-8. Project Structure
-9. Acknowledgements
+1. [Introduction](https://github.com/claudioen/National-Rail-Project?tab=readme-ov-file#introduction)
+2. [Objectives](https://github.com/claudioen/National-Rail-Project?tab=readme-ov-file#objectives)
+3. [Data Description](https://github.com/claudioen/National-Rail-Project?tab=readme-ov-file#data-description)
+4. [Analysis and Results](https://github.com/claudioen/National-Rail-Project?tab=readme-ov-file#analysis-and-results)
+5. [Conclusion](https://github.com/claudioen/National-Rail-Project?tab=readme-ov-file#conclusion)
+6. [Future Work](https://github.com/claudioen/National-Rail-Project?tab=readme-ov-file#future-work)
+7. [Requirements](https://github.com/claudioen/National-Rail-Project?tab=readme-ov-file#requirements)
+8. [Acknowledgements](https://github.com/claudioen/National-Rail-Project?tab=readme-ov-file#acknowledgements)
 
 
 ## Introduction
