@@ -13,16 +13,16 @@ Project delving into NationalRail's data – uncovering key insights into train 
 9. Acknowledgements
 
 
-### Introduction
+## Introduction
 Project delving into NationalRail's data – uncovering key insights into train operations in England, Scotland, and Wales.
 
-### Objectives
+## Objectives
 1. Discovering busy routes 🛤️
 2. Pinpointing peak travel times ⏰
 3. Analyzing ticket revenues 💰
 4. Assessing on-time performance ⏱️
 
-### Data Description
+## Data Description
 The dataset contains mock train ticket sales for National Rail in the UK, covering the period from January to April 2024. It includes detailed information on:
 * Type of Ticket: The category of each ticket sold.
 * Journey Date & Time: The specific date and time for each journey.
@@ -32,7 +32,7 @@ The dataset contains mock train ticket sales for National Rail in the UK, coveri
 The dataset was initially fairly clean but incomplete, lacking the coordinates for various railway stations.
 These coordinates were obtained from the following source: https://github.com/ellcom/UK-Train-Station-Locations/blob/master/uk-train-stations.csv
 
-### Analysis and Results
+## Analysis and Results
 https://github.com/claudioen/National-Rail-Project/blob/main/nationalrailproject_.png
 1. Number of Journeys: A KPI displaying the total number of journeys.
 2. Revenues: A KPI showing the total revenue generated.
@@ -44,13 +44,13 @@ https://github.com/claudioen/National-Rail-Project/blob/main/nationalrailproject
 8. Visual Map: A visual representation of all the routes, providing a geographic overview of the train journeys.
 
 
-### Conclusion
+## Conclusion
 * Most Popular Route: The route from Manchester Piccadilly to Liverpool Lime Street is the most popular, with 90.06% of trains arriving on time. The distance between these stations is approximately 50.19 km.
 * Peak Travel Times: Peak travel periods are observed between 06:00 - 07:00 and 18:00 - 19:00.
 Revenue: National Rail earned approximately £1 million from train ticket sales over the four-month period.
 * Most Punctual Route: The route from Liverpool Lime Street to Leeds, approximately 103 km long, is the most punctual, with no recorded delays. This conclusion is supported by the number of journeys made on this route.
 
-### Future Work
+## Future Work
 * Enhanced Data Collection:
     - Environmental Data: Integrate weather and environmental data to better understand the impact on train delays and service disruptions.
 * Predictive Analytics:
@@ -58,10 +58,10 @@ Revenue: National Rail earned approximately £1 million from train ticket sales 
 * Route Optimization:
     - Efficiency Analysis: Analyze and optimize train schedules to reduce travel times and improve punctuality.
 
-### Requirements
+## Requirements
 - Excel
 - Power BI
 - Python
 
-### Acknowledgements
+## Acknowledgements
 Thanks to Maven Analytics, for providing access to the dataset that was essential for this analysis.
