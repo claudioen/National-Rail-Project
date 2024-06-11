@@ -33,7 +33,7 @@ These coordinates were obtained from the following source: https://github.com/el
 
 ## Analysis and Results
 <br>
-<img height="600" src="https://github.com/claudioen/National-Rail-Project/blob/main/nationalrailproject_.png" />
+<img height="400" src="https://github.com/claudioen/National-Rail-Project/blob/main/nationalrailproject_.png" />
 <br>
 
 1. Number of Journeys: A KPI displaying the total number of journeys.
